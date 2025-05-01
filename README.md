@@ -1,4 +1,4 @@
-**AI-Powered Resume Builder - VitaeFordge**
+**VitaFordge**
 
 **Project Description:**
 
