@@ -1,11 +1,4 @@
 AI-Powered Resume Builder - Project Proposal
-Project Name:
-AI-Powered Resume Builder
-Group Members:
-1.	Muhammad Usama Abubakar (22l-7913)
-2.	Usman Khurshid (22l-7877)
-3.	Saad Aamir (22l-7978)
-4.	Momin Shahzad Butt (22l-7959)
 Project Description:
 The AI-Powered Resume Builder is a web-based application that allows users to create professional resumes using multiple templates. Users can enter their details in a structured form, and AI-powered suggestions will help improve their content, making their resumes more polished and impactful. The platform will support user authentication, allowing users to save and manage multiple resumes securely.
 Functional Requirements / Features:
@@ -46,7 +39,3 @@ o	Database: MongoDB/ Postgresql
 •	Styling: Tailwind CSS (or Bootstrap/MaterialUI as alternatives).
 •	AI API: AI API for resume content enhancements.
 •	PDF Generation: react-pdf or html2pdf.js.
-Conclusion
-The AI-Powered Resume Builder will provide an efficient way for users to create and manage professional resumes. With AI-powered enhancements, multiple templates, custom template support, and secure user authentication, it will offer a seamless experience for job seekers looking to improve their resumes effortlessly.
-
-
