@@ -53,4 +53,4 @@ o	Database: MongoDB
 •	Redux for State Management.
 •	Authentication: JWT-based user authentication.
 •	Styling: Tailwind CSS.
-•	PDF Generation: html2pdf.js.
+•	PDF Generation: Used JavaScript builtin function "window.open(print)".
