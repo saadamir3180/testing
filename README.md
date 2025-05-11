@@ -6,6 +6,7 @@ VitaeFordge is a web-based application that allows users to create professional 
 
 **Functional Requirements / Features:**
 
+
 **1. User Authentication**
 
 •	Users can register and log in using JWT-based authentication.
